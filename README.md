@@ -1,7 +1,7 @@
 # HTTP-Video-Streaming
 Node.js Express server that streams the video chunks instead of downloading the whole video 
 
-<img width="1670" alt="image" src="https://cdn.discordapp.com/attachments/842248295351189506/962643199095099422/ezgif-5-f0c3fee715.gif">
+<img width="1670" alt="image" src="https://cdn.discordapp.com/attachments/842248295351189506/962643199095099422/ezgif-5-f0c3fee715.gif" width="300" height="300">
 
 ## Why are you making simple and TRASH websites? 
 I made this webssite to polish my long forgotten JavaScript skills. 
